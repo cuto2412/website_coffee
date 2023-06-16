@@ -302,3 +302,39 @@ header{
     content: "";
     border-bottom: 4px solid black;
 }
+.main_chitiet_right_table{
+    display: flex;
+   
+    padding-left: 10px;
+}
+
+
+.chitiet_right{
+    margin-left: 60px;
+}
+.chitiet_right p{
+    font-size: 18px;
+    color: black;
+    margin-bottom: 15px;
+}
+.mid_chitietsp p{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #EA8025;
+    position: relative;
+}
+.mid_chitietsp p:before{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 39%;
+    content: "";
+    border-bottom: 4px solid black;
+}
+.main_chitiet_right_table{
+    display: flex;
+   
+    padding-left: 10px;
+}
