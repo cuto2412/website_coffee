@@ -45,8 +45,7 @@
                     <button type="submit" name="add_to_cart" class="btn btn-info">Thêm vào giỏ hàng</button>
                 </div>
             </form>
-                        <!-- <span style="font-size:18px;">Số lượng : </span> -->
-                        <!-- <input style="margin-bottom:30px;height: 30px;width:80px;" class="soluong input_soluong" name="soluong" id="soluong<?php echo $row_chitiet['id_sanpham'] ?>" type="number" value="1" min="1" max="<?php echo $row_chitiet['soluong'];?>" > -->
+                       
         </div>
     </div>
                 
