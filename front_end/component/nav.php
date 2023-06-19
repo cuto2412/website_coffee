@@ -9,15 +9,15 @@ require dir_admin . '/models/product.php'; -->
 <!--page home  -->
 <header class>
         <a href="index.php" class=" logo">
-          <img src="admin_cf/assets/image/others/logo.jpg" alt="">
+          <img src="img/logo.jpg" alt="">
         </a>
         <!-- menu icon -->
         <!-- <i class='bx bx-menu'></i> -->
         <!-- Link -->
         <ul class="navbar">
           <li><a href="#Home">Home</a></li>
-          <li><a href="#Contact">Contact</a></li>
-          <li><a href="http://localhost/coffee_shop/front_end/view_cart/menu_product.php">Product</a></li>
+          <li><a href="#Contact">Contacts</a></li>
+          <li><a href="http://localhost/coffee_shop/front_end/view_cart/menu_product.php">Products</a></li>
           
                    
           <li> <a href="#Abouts">About</a></li>

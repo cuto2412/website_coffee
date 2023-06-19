@@ -21,8 +21,8 @@ require dir_admin . '/models/product.php'; -->
   </head>
 <body>
     <header>
-        <a href="index.php" class="logo">
-          <img src="admin_cf/assets/image/others/logo.jpg" alt="">
+        <a href="../../index.php" class="logo">
+          <img src="../../img/logo.jpg" alt="">
         </a>
         <!-- menu icon -->
         <!-- Link -->
@@ -61,7 +61,7 @@ require dir_admin . '/models/product.php'; -->
             <div class="header-icon">
          
           
-          <a href="http://localhost/coffee_shop/"><i class='bx bx-home' id=""></i><a>
+          <a href="../../index.php"><i class='bx bx-home' id=""></i><a>
         </div>
     </header>
 </body>
